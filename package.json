@@ -19,7 +19,7 @@
     "markdown-it": "^14.0.0",
     "vite-plugin-pwa": "^0.17.4",
     "vitepress": "^1.0.0-rc.34",
-    "vue": "^3.3.12",
+    "vue": "^3.4.5",
     "workbox-window": "^7.0.0"
   },
   "dependencies": {
