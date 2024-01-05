@@ -29,17 +29,12 @@ const members = [
   {
     avatar: 'https://cdn.discordapp.com/avatars/270360642496626690/790b5bf064c869dfd12cc1985fc0a31f?size=1024',
     name: "x1025",
-    title: 'Councillor',
+    title: 'Chieftain, Councillor',
   },
   {
     avatar: 'https://cdn.discordapp.com/avatars/208052614347227138/4c34d8d9ace0a234d682983f28f0a768?size=1024',
     name: "ArkenX",
     title: 'General',
-  },
-  {
-    avatar: 'https://cdn.discordapp.com/avatars/168818172781264897/a3cdc309389db167bd69c05778c790dd?size=1024',
-    name: "MechanicalRift",
-    title: 'Cheiftain',
   },
   {
     avatar: 'https://cdn.discordapp.com/avatars/280815367662731266/bbfd384a75256e5cb22c4f4c294a0960?size=1024',
