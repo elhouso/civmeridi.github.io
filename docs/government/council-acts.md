@@ -331,8 +331,8 @@ _(Repealed via [Council Act 24.3](#council-act-24-3))_
 
 ### Council Act 13.3
 
-> In preparation for the Second Charter:  
-> ~~Repeal Council Acts [1.7](#council-act-1-7), [4.1](#council-act-4-1), [5.8](#council-act-5-8), [6.5](#council-act-6-5), [7.1](#council-act-7-1), [8.1](#council-act-8-1), [9.1](#council-act-9-1), and [10.2](#council-act-10-2).~~  
+> In preparation for the Second Charter:
+> ~~Repeal Council Acts [1.7](#council-act-1-7), [4.1](#council-act-4-1), [5.8](#council-act-5-8), [6.5](#council-act-6-5), [7.1](#council-act-7-1), [8.1](#council-act-8-1), [9.1](#council-act-9-1), and [10.2](#council-act-10-2).~~
 > ~~Amend [Council Act 1.4](#council-act-1-4):~~
 > ::: details
 > Any group of players wishing to form a town may submit papers of incorporation to the ~~Council~~ **Ololtic** of Yoahtl, which are then voted on and the Alcuahtl must sign off. A town may choose to be autonomous, which means that they retain their own legal structure, rights to their land in the event of them going inactive, and government. They also are exempt from participating in warfare unless they choose to contribute. They are, however, unable to ~~vote for the Council and~~ choose their own foreign relations except in the realm of trade. Non-autonomous towns retain the Yoahtlan legal code ~~and can vote for the Council~~. They also cannot form foreign relations. Existing towns may join Yoahtl as an automatically incorporated town and may choose autonomy at their discretion.
@@ -366,7 +366,7 @@ _(Repealed via [Council Act 13.8](#council-act-13-8))_
 
 ### Council Act 13.6
 
-> Promulgate the [Second Charter](/constitution/secound-charter).  
+> Promulgate the [Second Charter](/constitution/secound-charter).
 > Repeal [Council Act 4.0](#council-act-4-0)'s approval of the First Charter.
 
 ### Council Act 13.7
@@ -375,13 +375,13 @@ _(Repealed via [Council Act 13.8](#council-act-13-8))_
 
 ### Council Act 13.8
 
-> Repeal [Council Act 13.3](#council-act-13-3)’s repeals of Council Acts [1.7](#council-act-1-7), [4.1](#council-act-4-1), [5.8](#council-act-5-8), [6.5](#council-act-6-5), [8.1](#council-act-8-1), [9.1](#council-act-9-1), and [10.2](#council-act-10-2).  
-> ~~Repeal [Council Act 13.3](#council-act-13-3)’s ammendments of Council Acts [6.2](#council-act-6-2) and [9.2](#council-act-9-2).~~  
-> Repeal [Council Act 13.5](#council-act-13-5).  
-> Repeal [Council Act 13.6](#council-act-13-6).  
+> Repeal [Council Act 13.3](#council-act-13-3)’s repeals of Council Acts [1.7](#council-act-1-7), [4.1](#council-act-4-1), [5.8](#council-act-5-8), [6.5](#council-act-6-5), [8.1](#council-act-8-1), [9.1](#council-act-9-1), and [10.2](#council-act-10-2).
+> ~~Repeal [Council Act 13.3](#council-act-13-3)’s ammendments of Council Acts [6.2](#council-act-6-2) and [9.2](#council-act-9-2).~~
+> Repeal [Council Act 13.5](#council-act-13-5).
+> Repeal [Council Act 13.6](#council-act-13-6).
 > Amend [Council Act 4.0](#council-act-4-0):
 > ::: details
-> Approve the First Third Charter.  
+> Approve the First Third Charter.
 > Repeal Council Acts [1.1](#council-act-1-1), [1.2](#council-act-1-2), and [1.5](#council-act-1-5).
 > :::
 > Amend Council Act 4.1:
@@ -576,7 +576,7 @@ _(Amended via [Council Act 21.3](#council-act-21-3))_
 
 ### Council Act 21.3
 
-> Re-add the High Justice to #council-chambers so that he can ensure the government acts legally and can give advice on matters of a legal nature. However, continue the affirmation that the High Justice is not a member of government and therefore does not gain powers granted to the government in the charter or in law.  
+> Re-add the High Justice to #council-chambers so that he can ensure the government acts legally and can give advice on matters of a legal nature. However, continue the affirmation that the High Justice is not a member of government and therefore does not gain powers granted to the government in the charter or in law.
 > Amend [Council Act 21.1](#council-act-21-1):
 > ::: details
 > Reaffirm that the High Justice does not have the same access and powers of government as the council, as listed in the charter. ~~Expressing this, #council-chambers, is made private to government. Future conversations between the high justice and government occur in #judge-chambers.~~
@@ -634,18 +634,18 @@ Schedule 3: Recount [[Proposal] Clarify the legislative powers of the Council (R
 
 ### Council Act 24.2
 
-> **Great Retirement Act**  
-> Retire any and all laws (or parts of laws) that claim or exchange land on Civclassics.  
+> **Great Retirement Act**
+> Retire any and all laws (or parts of laws) that claim or exchange land on Civclassics.
 > Retire Council Acts [5.5](#council-act-5-5), [5.6](#council-act-5-6), [8.2](#council-act-8-2), [21.4](#council-act-21-4), and [22.3](#council-act-22-3).
 
 ### Council Act 24.3
 
-> Repeal [Council Act 13.2](#council-act-13-2).  
+> Repeal [Council Act 13.2](#council-act-13-2).
 > It's the law that ratified the "Yoahtl Crimes Act (October 2018)", however the link is broken and nobody seems to have a backup. Since it cannot be found it should not be considered valid law.
 
 ### Council Act 24.4
 
-> Amend Council Act 9.2:
+> Amend [Council Act 9.2](#council-act-9-2):
 > ::: details
 > The Alcuahtl assigns the role of Auditor-General to an individual ~~Councillor~~ **Citizen**. This duty cannot be delegated. The Auditor-General is responsible for monitoring the supply of government resources (primarily liquid assets and XP). They must account for all transactions within reason, and follow-up and report on any discrepancies. The Auditor-General must ideally not be a ~~Councillor~~ **Citizen** heavily involved in production or expenditure (I.e XP production or defense). The Council may force the Alcuahtl to reconsider their choice of Auditor-General, but may not force a resignation without proof of wrongdoing.
 > :::

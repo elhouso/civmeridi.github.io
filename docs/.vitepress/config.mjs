@@ -172,7 +172,7 @@ export default withPwa(
                 link: "/government/conventions",
               },
               {
-                text: "Goverment History",
+                text: "Government History",
                 link: "/government/government-composition-history",
               },
             ],
@@ -190,7 +190,7 @@ export default withPwa(
             text: "Olotic",
             items: [
               {
-                text: "Preposals",
+                text: "Proposals",
                 link: "/government/ololtic-proposals",
               },
             ],

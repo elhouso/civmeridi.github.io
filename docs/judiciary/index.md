@@ -2,5 +2,5 @@
 
 Important documents related to the Judiciary.
 
-- [Code of Court](/judiciary/code-of-court)
+- [Code of Court Procedure](/judiciary/code-of-court)
 - [A memo for Clarification](/storage/court/A-memo-for-Clarification.pdf)
