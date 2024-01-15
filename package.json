@@ -15,7 +15,7 @@
   "devDependencies": {
     "@vite-pwa/vitepress": "^0.3.1",
     "esno": "^4.0.0",
-    "flexsearch": "^0.7.31",
+    "flexsearch": "^0.7.43",
     "markdown-it": "^14.0.0",
     "vite-plugin-pwa": "^0.17.4",
     "vitepress": "^1.0.0-rc.36",
