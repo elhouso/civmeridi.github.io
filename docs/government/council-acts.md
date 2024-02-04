@@ -653,3 +653,7 @@ Schedule 3: Recount [[Proposal] Clarify the legislative powers of the Council (R
 ### Council Act 24.5
 
 > Allow leave for the High Justice to preside over cases when either the Government is being sued; or when the Government is suing others.
+
+### Council Act 25.1
+
+> Secede Exilus from Yoahtl, with the information that Arconis has waived his right to vote, and the people of Exilus have consented to secession.

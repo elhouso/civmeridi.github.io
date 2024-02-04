@@ -25,8 +25,8 @@ _(Amends [The Yoahtlan Charter](/constitution/charter))_
 
 Proposer: bgbba, Seconded By: SpaceVolcano, Date: 25th July 2019
 
-> Amend the wording of Article IV Section Two from the charter, replacing it with the words "All citizens are afforded one voluntary vote when voting on proposals, confirming nominees to public office, or affirming new citizens to the Ololtic."  
-> The current Article IV Section Two states that people are entitled to up to three votes, but this process has never been used and none of the institutions described for affording people their second or third votes have ever been created. In short, it's a dead part of the current charter that runs contrary to the working history and precedent that guides Yoahtlan institutions.  
+> Amend the wording of Article IV Section Two from the charter, replacing it with the words "All citizens are afforded one voluntary vote when voting on proposals, confirming nominees to public office, or affirming new citizens to the Ololtic."
+> The current Article IV Section Two states that people are entitled to up to three votes, but this process has never been used and none of the institutions described for affording people their second or third votes have ever been created. In short, it's a dead part of the current charter that runs contrary to the working history and precedent that guides Yoahtlan institutions.
 > In addition, it is the opinion of the government that allowing institutions to privilege certain individuals with greater voting power opens the door to corruption and the presence of this clause within the charter constitutes a potential avenue for votes to be challenged in court over the legitimacy of the voter's ballot. It's overly complicated, we've never used it, and it's potentially dangerous.
 
 **Proposal passed**: Votes unknown.
@@ -37,7 +37,7 @@ _(Amends [The Yoahtlan Charter](/constitution/charter))_
 
 Proposer: Lukasmaps, Seconded By: WackyAki, Date: 25th July 2019
 
-> Currently, proposals are advanced by the citizenry, then voted on by the council. If the council rejects a proposal they provide a reason for its rejection and the citizenry can then override the veto with a 2/3’s majority.  
+> Currently, proposals are advanced by the citizenry, then voted on by the council. If the council rejects a proposal they provide a reason for its rejection and the citizenry can then override the veto with a 2/3’s majority.
 > Lukas proposal is to eliminate the Council’s review role and instead change the charter so that the High Justice reviews the proposal for constitutionality. In short, the idea is to replace executive review with judicial review.
 
 **Proposal failed**: No Ayes, 13 Nays, No Abstentions
@@ -82,7 +82,7 @@ Proposer: LukasMaps, Seconded By: Orinnari, Date: 30th August 2019
 
 Proposer: GDAN12, Seconded By: Multiple citizens, Date: 31st August 2019
 
-> Modify council law 1.4  
+> Modify council law 1.4
 > Current text:
 >
 > > Any group of players wishing to form a town may submit papers of incorporation to the Council of Yoahtl, which are then voted on and the Alcuahtl must sign off. A town may choose to be autonomous, which means that they retain their own legal structure, rights to their land in the event of them going inactive, and government. They also are exempt from participating in warfare unless they choose to contribute. They are, however, unable to vote for the Council and choose their own foreign relations except in the realm of trade. Non-autonomous towns retain the Yoahtlan legal code and can vote for the Council. They also cannot form foreign relations. Existing towns may join Yoahtl as an automatically incorporated town and may choose autonomy at their discretion.
@@ -137,7 +137,7 @@ Proposer: GDAN12, Seconded By: WackyAki, Date: 13th September 2019
 
 Proposer: LukasMaps, Seconded By: Sventhar, Date: 14th September 2019
 
-> Formally name NYC as NYC and the island it's situated on as Nixotlan.  
+> Formally name NYC as NYC and the island it's situated on as Nixotlan.
 > Background: Currently both the island and the city are formally named Nixotlan, but obviously nobody uses that name. In colloquial usage, the city is referred to as NYC and the island is nameless. This proposal would have the dual effect of solidifying the name people already call NYC by as it’s actual legal name and also making it easier to talk about the island NYC is on by being able to call it by one word (Nixotlan) instead of the much more clunky “The island NYC is on.”
 
 **Proposal failed**: 13 Ayes, 2 Nays, 2 Abstentions (Quorum not met)
@@ -146,8 +146,8 @@ Proposer: LukasMaps, Seconded By: Sventhar, Date: 14th September 2019
 
 Proposer: GDAN12, Seconded By: LukasMaps, Date: 25th September 2019
 
-> To become a citizen of Yoahtl proper you must a) be a resident of Yoahtl proper, and b) request a vote in the citizenship-votes channel where a majority from the Ololtic will constitute a pass.  
-> (Other direct agreements with the government such as treaties of autonomous towns do not have to follow such rules, however they must be agreed by a majority council vote.)  
+> To become a citizen of Yoahtl proper you must a) be a resident of Yoahtl proper, and b) request a vote in the citizenship-votes channel where a majority from the Ololtic will constitute a pass.
+> (Other direct agreements with the government such as treaties of autonomous towns do not have to follow such rules, however they must be agreed by a majority council vote.)
 > Reason for proposal: This clarifies the method of becoming a citizen, it means that at least it's documented somewhere so even if a new resident can't find it a citizen will probably be able to tell them how to become a citizen.
 
 **Proposal passed**: 14 Ayes, No Nays, No Abstentions
@@ -212,11 +212,11 @@ _(Amends [The Yoahtlan Charter](/constitution/charter))_
 
 Proposer: The People of Okashima, Seconded By: TheAdvisor, Date: 17th October 2019
 
-> Governments are instituted among Men, deriving their just powers from the consent of the governed, — That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government”  
-> We the people of Okashima, hereby request the implementation of the following proposal:  
-> "Establish a government minister position for the leader of Okashima, known as the Minister of Okashima; who is henceforth to be elected from residents of the territory every two months, while removing the permanent position of Oudai which is currently held by F1sh98. The Minister will serve the town of Okato and the territory of Okashima in day to day management as well as communicating the needs of the town with the Yoahtlan government. In controversial decisions by the Minister the residents will have the power to challenge said decision, with it then going to a 2/3rds majority vote among all active residents of the territory. Residents can also call for a vote of no confidence in the Minister at any time, and with a 2/3rds majority vote removing him from office.  
-> We in Okashima feel this is necessary due to the blatant abuses of office committed by F1sh98 in his permanent position of Oudai. This position has no checks on its power, essentially forcing us to live in a despotic dictatorship. We do not wish to kick F1sh out of town, take any property he possesses, or revoke his right to live in Okashima. we simply want the town to be led by an elected official with the citizens all having a say in the direction of the town."  
-> We have gone directly to him with the changes we want, and the response was "It'll be a cold day in hell when you take my town from me". He is not satisfied with anything less than a permanent government position, believing himself above the citizens who toil under his rule. Since we have exhausted all other reasonable options, we haven now been forced to come to you, the people of Yoahtl, directly for help in our current efforts of democratization.  
+> Governments are instituted among Men, deriving their just powers from the consent of the governed, — That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government”
+> We the people of Okashima, hereby request the implementation of the following proposal:
+> "Establish a government minister position for the leader of Okashima, known as the Minister of Okashima; who is henceforth to be elected from residents of the territory every two months, while removing the permanent position of Oudai which is currently held by F1sh98. The Minister will serve the town of Okato and the territory of Okashima in day to day management as well as communicating the needs of the town with the Yoahtlan government. In controversial decisions by the Minister the residents will have the power to challenge said decision, with it then going to a 2/3rds majority vote among all active residents of the territory. Residents can also call for a vote of no confidence in the Minister at any time, and with a 2/3rds majority vote removing him from office.
+> We in Okashima feel this is necessary due to the blatant abuses of office committed by F1sh98 in his permanent position of Oudai. This position has no checks on its power, essentially forcing us to live in a despotic dictatorship. We do not wish to kick F1sh out of town, take any property he possesses, or revoke his right to live in Okashima. we simply want the town to be led by an elected official with the citizens all having a say in the direction of the town."
+> We have gone directly to him with the changes we want, and the response was "It'll be a cold day in hell when you take my town from me". He is not satisfied with anything less than a permanent government position, believing himself above the citizens who toil under his rule. Since we have exhausted all other reasonable options, we haven now been forced to come to you, the people of Yoahtl, directly for help in our current efforts of democratization.
 > While we are rejecting our own internal rule, we do still wish to remain loyal to the great nation of Yoahtl. We thank you for allowing us to grow with you and we hope to further strengthen our bonds by redeveloping the way we are governed.
 
 **Proposal passed**: 16 Ayes, 2 Nays, 6 Abstentions
@@ -225,7 +225,7 @@ Proposer: The People of Okashima, Seconded By: TheAdvisor, Date: 17th October 20
 
 Proposer: iOminous, Seconded By: bgbba, Date: 16th December 2019
 
-> Councillor Candidate Tax  
+> Councillor Candidate Tax
 > Allow for the government to set a poll tax on all candidates interested in running. The tax will go to the nations treasury and incumbent candidates will not be allowed use public funds (they’ll need to be privately funded). I think wealth is a good indication of a players activity and it seems reasonable.
 
 **Proposal failed**: 5 Ayes, 10 Nays, 1 Abstention
@@ -244,17 +244,17 @@ _([Archive of Google Doc](/storage/proposals/Proposal-Twenty-Three.pdf))_
 
 Proposer: bgbba, Seconded By: Okx, Date: 14th February 2020
 
-> "A Proposal to Amend the Yoahtlan Charter to Obtain Faster, Superior Voting Results"  
+> "A Proposal to Amend the Yoahtlan Charter to Obtain Faster, Superior Voting Results"
 > Amend Article II Section 5 of the Third National Charter from the following text:
 >
-> > Councillors will be elected to a term of 2 months by a popular vote. Citizens may pick up to 3 candidates to >cast their ballots for, and the candidates with the 3 highest vote totals will comprise the council for that term.  
-> > a. The council shall be composed of 3 members minimum, with additional seats added for every 6 citizens beyond 12.  
+> > Councillors will be elected to a term of 2 months by a popular vote. Citizens may pick up to 3 candidates to >cast their ballots for, and the candidates with the 3 highest vote totals will comprise the council for that term.
+> > a. The council shall be composed of 3 members minimum, with additional seats added for every 6 citizens beyond 12.
 > > b. Councillors may resign at any time, for any reason, so long as they appoint a deputy to fill in for them if >needed before an official replacement is elected. An interim election should be held within one week of a >resignation to choose an official replacement.
 >
 > To the following text:
 >
-> > Councillors shall be elected to a term of two months by single transferable vote. The top candidates by popular vote shall become Councillors for that term.  
-> > a. The council shall be composed of three members, with one additional member for every six valid voters past 12.  
+> > Councillors shall be elected to a term of two months by single transferable vote. The top candidates by popular vote shall become Councillors for that term.
+> > a. The council shall be composed of three members, with one additional member for every six valid voters past 12.
 > > b. Councillors may resign at any time and shall be replaced by the next most popular vote getter in the previous election who still meets the qualifications to be Councillor and who still has affirmative interest in serving on the Council.
 >
 > This proposal shall not affect the results of the February 2020 election.
@@ -265,7 +265,7 @@ Proposer: bgbba, Seconded By: Okx, Date: 14th February 2020
 
 Proposer: MightyOddish, Seconded By: nico0078, Date: 17th February 2020
 
-> ~~Proposals as they currently are are rather troublesome. To fix this any person can suggest a proposal and then awaits a member of council to second the motion, then the proposal. is posted up as a proposal (as we currently do). Then the council vote on said proposal as a primary vote. if the vote passes with a 2/3rd majority it goes to the citizenry to vote on a second round. the citizenry can then vote on said proposal in or out. In which it will require only a 60% majority of people who have voted to be passed or rejected. If the council however vote the proposal and reject it. the second round of voting will still go through in which citizens will vote. If it is wanted 90% of votes would have to be an 'aye' for it to pass through the councils rejection, if the 90% ayes is not reached then he proposal is rejected. ( this is deliberately worded to only count people who have actively voted. all non votes are subsequently not counted in the percentiles.)~~  
+> ~~Proposals as they currently are are rather troublesome. To fix this any person can suggest a proposal and then awaits a member of council to second the motion, then the proposal. is posted up as a proposal (as we currently do). Then the council vote on said proposal as a primary vote. if the vote passes with a 2/3rd majority it goes to the citizenry to vote on a second round. the citizenry can then vote on said proposal in or out. In which it will require only a 60% majority of people who have voted to be passed or rejected. If the council however vote the proposal and reject it. the second round of voting will still go through in which citizens will vote. If it is wanted 90% of votes would have to be an 'aye' for it to pass through the councils rejection, if the 90% ayes is not reached then he proposal is rejected. ( this is deliberately worded to only count people who have actively voted. all non votes are subsequently not counted in the percentiles.)~~
 > ~~This is a test of the new system. After a 3 week trial if this proposed system doesn't suit the needs or is disliked by the majority we will revert to our current system and look for another idea to fix voting issues.~~
 
 **Proposal passed**: 11 Ayes, 5 Nays, 2 Abstentions
@@ -288,8 +288,8 @@ _(Amends [The Yoahtlan Charter](/constitution/charter))_
 
 Proposer: nico0078, Seconded By: UNKOWN, Date: 3rd March 2020
 
-> Any citizen can start a proposal, and it must be seconded by a different citizen after a period of discussion of any length during which the specifics of the law are discussed and revisions suggested. Once seconded, voting opens for the next 48 hours, during which additional discussion may occur. If the proposer wishes to include revisions from this additional discussion, they may update their proposal, at which point the voting period and votes both reset. Once voting closes, the proposal passes if there are more aye votes than nay votes and at least 1/3 of the citizenry has voted aye (or 2/3rds in the case of charter amendments).  
-> Councillors can also pass legislation. Any council member may start a proposal, and it is passed and becomes law if 2/3 of the councillors approve the proposal by voting aye. However, if at least as many citizens as there are council members express their desire to revoke this law, the law is temporarily suspended and a proposal is created to veto the Council's law.  
+> Any citizen can start a proposal, and it must be seconded by a different citizen after a period of discussion of any length during which the specifics of the law are discussed and revisions suggested. Once seconded, voting opens for the next 48 hours, during which additional discussion may occur. If the proposer wishes to include revisions from this additional discussion, they may update their proposal, at which point the voting period and votes both reset. Once voting closes, the proposal passes if there are more aye votes than nay votes and at least 1/3 of the citizenry has voted aye (or 2/3rds in the case of charter amendments).
+> Councillors can also pass legislation. Any council member may start a proposal, and it is passed and becomes law if 2/3 of the councillors approve the proposal by voting aye. However, if at least as many citizens as there are council members express their desire to revoke this law, the law is temporarily suspended and a proposal is created to veto the Council's law.
 > Laws passed by the Council may not override laws passed by the Ololtic. The Council may not re-propose a law vetoed by the Ololtic for a period of one month.
 
 **Proposal passed**: 16 Ayes, 1 Nay, Unknown Abstentions
@@ -300,7 +300,7 @@ _(Amends [The Yoahtlan Charter](/constitution/charter))_
 
 Proposer: MightyOddish, Seconded By: WackyAki, Date: 10th April 2020
 
-> Marketing and Advertisement Committee (MAC)  
+> Marketing and Advertisement Committee (MAC)
 > Any public advertisements or posters to be displayed around the city ingame, (other than the owners private store.) must first be presented to a marketing board. The board will consist of;
 >
 > 1. The Alcuhatl
@@ -337,9 +337,9 @@ Proposer: Orinnari, Seconded By: Mightyoddish, Date: 3rd October 2020
 >
 > > Allow recall elections to be advanced by petition of the citizenry. If more than half the total of the previous voters submit a petition for a new election for a council seat and the council finds no evidence of collusion or bad faith then a new election will be held. All petitions must have a reason for recalling the elected official and cannot be initiated or signed by the Alcuahtl, his deputy, or other councillors.
 >
-> I believe the law is flawed because:  
-> • The Council determines whether the petition - to recall one of their colleagues - is in good faith. This should arguably be the duty of the Chief Justice.  
-> • The restriction against government officials from participating can create issues with low population counts. This should arguably be removed.  
+> I believe the law is flawed because:
+> • The Council determines whether the petition - to recall one of their colleagues - is in good faith. This should arguably be the duty of the Chief Justice.
+> • The restriction against government officials from participating can create issues with low population counts. This should arguably be removed.
 > Thus, I propose amending the law to the following:
 >
 > > Allow recall elections to be advanced by petition of the Ololtic. If the petition receives more than 50% of the submitted votes from the pervious election, and the Chief Justice finds no evidence of collusion or bad faith, and that the given reason is valid, then a new election will be held. Such petitions ought not to be started by other government officials.
@@ -1126,6 +1126,42 @@ _Notes: I'm not typing this shit, just read the google doc._
 
 **Proposal Failed:** 4 Ayes, 6 Nays, 4 Abstains
 
+## [Proposal] Restricted Areas Act
+
+Proposer: Husky, Seconded by: Arconis, Date: September 26th, 2023
+
+> Trespass law within Yoahtl is ill defined, and should have been updated a while ago, this is an attempt to rectify that. Keep in mind, this is a rough draft, so there is still some worked needed before it should be put to a vote.
+
+> 1. A Restricted Area (RA) is a space clearly delineated as not meant for public access.
+
+>     1.1 A space can be delineated as such by locking doors, or placing signs marking it as such
+
+>         1.1.1 An example of such a sign might be "Employees Only," or "No Trespassing"
+
+>     1.2 The owner of the area should take reasonable precautions to prevent outside access
+
+>         1.2.1 The owner of the area CAN'T purely rely on signage, there much be some physical barrier along side it
+
+> 2. Military Infrastructure by default is to be considered a Restricted Area
+
+>     2.1 The entry of an individual into such an area doesn't necessitate a trespassing charge, but may instead be used as an additional charge during court proceedings
+
+>     2.2 Only members of Yoahtl's Military/Government are to be allowed into these areas
+
+>         2.2.1 Fighters from an allied nation may enter with prior consent
+
+>         2.2.2 The Government may grant private citizens entry if deemed necessary
+
+> 3. The Yoahtl Government possess a monopoly on Restricted Areas marked as Pearl On Sight (POS)
+
+>     3.1 The Government may designate non-government property as POS in exceptional circumstances
+
+>     3.2 Those found within POS Restricted Areas should be pearled with extreme prejudice
+
+>         3.2.1 Only those with permission (See 2.2) are to be exempt from such pearlings
+
+**Proposal Withdrawn:** 10 Ayes, 2 Nays, 1 Abstain
+
 ## [Proposal] Torynado citizenship removal
 
 Proposer: Solitaire, Seconded by: Arconis, Date: October 14th, 2023
@@ -1141,3 +1177,41 @@ Proposer: MechanicalRift, Seconded by: Arconis, Date: October 28th, 2023
 > Tory had leaked multiple things intenting to harm the community. In order to have legal exile instead of just in acting exile. I propose that she is removed from citizenship.
 
 **Proposal Passed:** 16 Ayes, 0 Nays, 2 Abstains
+
+## [Proposal] Gov monopoly on xp~
+
+Proposer: Solitaire, Seconded by: bgbba, Date: January 13th, 2024
+
+> To ensure the financial stability of the government and therefore the ability of the government to actively maintain and expand public infrastructure within Yoahtl the following government monopoly is thus established:
+
+> The government of Yoahtl are the only group/person(s) within Yoahtl allowed to produce xp/emeralds.
+
+> The government of Yoahtl are the only group/person(s) within Yoahtl allowed to sell xp/emeralds.
+
+> Crops produced via farms within Yoahtl should not go toward production of xp/emeralds outside of Yoahtl without explicit permission from the government.
+
+**Proposal Withdrawn:** 1 Aye, 0 Nays, 2 Abstains
+
+## [Proposal] Outlaw Jump boost on beacons in Altepetl
+
+Proposer: Solitaire, Seconded by: bgbba, Date: January 15th, 2024
+
+> Very simple proposal. Jump boost beacons are annoying af. Outlaw them in Altepetl :yoahtlchad:
+
+**Proposal Passed:** 13 Ayes, 1 Nay, 0 Abstains
+
+## [Proposal] The Universal Approval Proposal
+
+Proposer: MechanicalRift, Seconded by: HiddenShantu, Date: January 15th, 2024
+
+> Amend Article 4
+
+> Section 3.B to:
+
+> Should, after a period of discussion of any length during which the specifics of the law are discussed and revisions suggested, a different citizen "second" the proposal, it enters a 48-hour period where it is voted on, during which discussion may continue. **If 100% of the Ololtic participate and vote aye or abstain on a Proposal, while at least 1/3 of the votes are aye, the vote is ended early and passes.**
+
+> Section 4.B to:
+
+> A government member then begins the voting process during which current members of the ololtic have 48 hours to vote on the request. **If 100% of the Ololtic participate and vote aye or abstain on the request, while a majority of the votes are aye, the vote is ended early and passes.**
+
+**Proposal Failed:** 10 Ayes, 0 Nays, 0 Abstains
