@@ -15,7 +15,7 @@ dependencies:
 devDependencies:
   '@vite-pwa/vitepress':
     specifier: ^0.3.1
-    version: 0.3.1(vite-plugin-pwa@0.17.5)
+    version: 0.3.1(vite-plugin-pwa@0.18.1)
   esno:
     specifier: ^4.0.0
     version: 4.0.0
@@ -26,8 +26,8 @@ devDependencies:
     specifier: ^14.0.0
     version: 14.0.0
   vite-plugin-pwa:
-    specifier: ^0.17.5
-    version: 0.17.5(vite@5.0.12)(workbox-build@7.0.0)(workbox-window@7.0.0)
+    specifier: ^0.18.1
+    version: 0.18.1(vite@5.0.12)(workbox-build@7.0.0)(workbox-window@7.0.0)
   vitepress:
     specifier: ^1.0.0-rc.42
     version: 1.0.0-rc.42(@algolia/client-search@4.19.1)(search-insights@2.8.0)
@@ -2017,12 +2017,12 @@ packages:
     resolution: {integrity: sha512-g9gZnnXVq7gM7v3tJCWV/qw7w+KeOlSHAhgF9RytFyifW6AF61hdT2ucrYhPq9hLs5JIryeupHV3qGk95dH9ow==}
     dev: true
 
-  /@vite-pwa/vitepress@0.3.1(vite-plugin-pwa@0.17.5):
+  /@vite-pwa/vitepress@0.3.1(vite-plugin-pwa@0.18.1):
     resolution: {integrity: sha512-krgiYQCWXUkpQCx+IHdsanFFpAzfH5pY86MARDa6as5ZNmG18mb/gC6MEahFV67V0xfMfTaNL4B8dQNzzcikLw==}
     peerDependencies:
       vite-plugin-pwa: '>=0.17.2 <1'
     dependencies:
-      vite-plugin-pwa: 0.17.5(vite@5.0.12)(workbox-build@7.0.0)(workbox-window@7.0.0)
+      vite-plugin-pwa: 0.18.1(vite@5.0.12)(workbox-build@7.0.0)(workbox-window@7.0.0)
     dev: true
 
   /@vitejs/plugin-vue@5.0.3(vite@5.0.12)(vue@3.4.15):
@@ -3747,8 +3747,8 @@ packages:
       punycode: 2.3.0
     dev: true
 
-  /vite-plugin-pwa@0.17.5(vite@5.0.12)(workbox-build@7.0.0)(workbox-window@7.0.0):
-    resolution: {integrity: sha512-UxRNPiJBzh4tqU/vc8G2TxmrUTzT6BqvSzhszLk62uKsf+npXdvLxGDz9C675f4BJi6MbD2tPnJhi5txlMzxbQ==}
+  /vite-plugin-pwa@0.18.1(vite@5.0.12)(workbox-build@7.0.0)(workbox-window@7.0.0):
+    resolution: {integrity: sha512-2A3BF52l9F8hCkdPy/VP2C+hA+fmBvzJGynCZc9XS6mHTcMvo9046FKc2NqlnkKwTOGtQEwXLEIduML/+eYtdw==}
     engines: {node: '>=16.0.0'}
     peerDependencies:
       vite: ^3.1.0 || ^4.0.0 || ^5.0.0
