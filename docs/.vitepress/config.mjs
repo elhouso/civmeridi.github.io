@@ -102,7 +102,7 @@ export default withPwa(
       socialLinks: [
         {
           icon: "discord",
-          link: "https://discord.gg/NwjJKRvk2P",
+          link: "https://discord.gg/5SEqUCm5Gm",
         },
         {
           icon: {
