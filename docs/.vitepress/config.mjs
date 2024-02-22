@@ -67,6 +67,11 @@ export default withPwa(
       // PWA manifest
       ["link", { rel: "preconnect", href: "/manifest.webmanifest" }],
       ["link", { rel: "manifest", href: "/manifest.webmanifest" }],
+      ["script", { 
+        async: '',
+        src : "https://umami.huskydog.xyz/script.js", 
+        "data-website-id" : "6b3a3326-8187-4ffd-977f-e86e2f9e482b"
+     }]
     ],
     lastUpdated: true,
     appearance: "dark",
