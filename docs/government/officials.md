@@ -11,19 +11,19 @@ import {
 
 const members = [
   {
-    avatar: 'https://cdn.discordapp.com/avatars/834536107878121542/d3e84cb849dc40c34504d9038ca74d40?size=1024',
-    name: 'Arconis',
+    avatar: 'https://cdn.discordapp.com/avatars/226898080547602432/77ae72fdd850db5701d80d3dd85b82f5?size=1024',
+    name: 'NeoTide',
     title: 'Alcuahtl, Councillor',
     links: []
   },
   {
-    avatar: "https://cdn.discordapp.com/avatars/528230329454952478/a_fe45d0fd7bd63f2df1dc0ed01fdaa3d9?size=1024",
-    name: "Awesome_Daniel",
+    avatar: "https://cdn.discordapp.com/avatars/168746386320261120/1dc5d1482a9d4355cb548605cc93193d?size=1024",
+    name: "Solitaire",
     title: 'Councillor',
   },
   {
-    avatar: 'https://cdn.discordapp.com/avatars/280697770942136320/3a93e8d2c10469b5ac6d958f9e914e9d?size=1024',
-    name: "JessieJinx",
+    avatar: 'https://cdn.discordapp.com/avatars/199409362781863936/9c77257025d08dad79366904ab317472?size=1024',
+    name: "Yergo",
     title: 'Councillor',
   },
   {
@@ -32,12 +32,7 @@ const members = [
     title: 'Chieftain, Councillor',
   },
   {
-    avatar: 'https://cdn.discordapp.com/avatars/208052614347227138/4c34d8d9ace0a234d682983f28f0a768?size=1024',
-    name: "ArkenX",
-    title: 'General',
-  },
-  {
-    avatar: 'https://cdn.discordapp.com/avatars/280815367662731266/bbfd384a75256e5cb22c4f4c294a0960?size=1024',
+    avatar: 'https://cdn.discordapp.com/avatars/280815367662731266/efd4997e4888bf4815da714ec26ee2eb?size=1024',
     name: "Husky",
     title: 'High Justice',
   },
