@@ -1215,3 +1215,40 @@ Proposer: MechanicalRift, Seconded by: HiddenShantu, Date: January 15th, 2024
 > A government member then begins the voting process during which current members of the ololtic have 48 hours to vote on the request. **If 100% of the Ololtic participate and vote aye or abstain on the request, while a majority of the votes are aye, the vote is ended early and passes.**
 
 **Proposal Failed:** 10 Ayes, 0 Nays, 0 Abstains
+
+## [Proposal] The Expulsion Act
+
+Proposer: bgbba, Seconded by: Quauhtli, Date: February 15th, 2024 
+
+> This is a follow up to the sedition act and shall be construed as reinforcing the terms contained therein. The following shall be enacted to define enemies of Yoahtl under the sedition act as follows in addition to enemies in wartime: 
+> 
+> * all players banned from civ for doxxing, harassment, or out of game threatening behavior
+> 
+> * all players who continue to deny the validity of the admins bans for doxxing, harassment, or out of game threatening behavior or deny entirely the claims of doxxing or harassment in the face of clear evidence when presented to them
+> 
+> Any player who is banned for the aforementioned reasons is to be considered an enemy of Yoahtl. This shall not be construed as to prevent debate or discussion internally, but only to define those with valid bans and evidence against them as enemies of Yoahtl under the sedition act explicitly. 
+
+> Secondly, rendering material aid to enemies under the sedition act shall include the following: 
+> 
+> * owning or moderating a discord where banned players are active participants
+> 
+> * any players banned for doxxing, harassment, or threatening behavior must be immediately expelled from the Yoahtl discord or any metagame services owned, managed or operated by the Yoahtlan government. Any government official who refuses to take meaningful action against banned players of this nature is liable under the sedition act for providing material and comfort to an enemy of Yoahtl
+> 
+> * offering residency or safe harbor within a political entity of which you are a governing authority including allowing banned players a meaningful platform to continue to interact with the civ community
+> 
+> Exceptions may be granted under the terms of the Expulsion Act for people participating in good faith discussions or discussions which do not threaten the irl health and safety of Yoahtlans in violation of their charter rights.
+
+**Proposal Failed:** 4 Aye, 9 Nays, 4 Abstains
+
+## [Proposal] Required Discussion Time
+
+Proposer: MechanicalRift, Seconded by: Neotide, Date: February 16th, 2024
+
+> Amending Article 4 Section 3a
+> "Should, after a period of discussion of any length during which the specifics of the law are discussed and revisions suggested, a different citizen "second" the proposal, it enters a 48-hour period where it is voted on, during which discussion may continue."
+
+> Change to:
+
+> "After a period of discussion of a minimum of 24 hours during which the specifics of the law are discussed and revisions are suggested, a different member of the Ololtic can "second" the proposal. It enters a 48-hour period where it is voted on, during which discussion may continue." 
+
+**Proposal Failed:** 15 Aye, 1 Nay, No Abstains

@@ -268,7 +268,7 @@ _There was an emergency election due to war thus the early end date_
 - x1025 (Councillor)
 - ArkenX (General)
 
-### 13th November 2023 - ...
+### 13th November 2023 - 13th January 2024
 
 **Alcuahtl**: Arconis
 
@@ -277,3 +277,13 @@ _There was an emergency election due to war thus the early end date_
 - JessieJinx (Councillor)
 - x1025 (Councillor)
 - ArkenX (General)
+
+### 13th January 2024 - ...
+
+**Alcuahtl**: Neotide
+
+- Arconis (Councillor) (Stepped down 1/30/2024)
+- Neotide (Councillor)
+- x1025 (Councillor)
+- Yergo (Councillor)
+- Solitaire (Councillor) (Replaced Arconis)
