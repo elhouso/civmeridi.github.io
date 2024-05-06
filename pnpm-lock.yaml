@@ -14,8 +14,8 @@ dependencies:
 
 devDependencies:
   '@vite-pwa/vitepress':
-    specifier: ^0.4.0
-    version: 0.4.0(vite-plugin-pwa@0.20.0)
+    specifier: ^0.5.0
+    version: 0.5.0(vite-plugin-pwa@0.20.0)
   esno:
     specifier: ^4.7.0
     version: 4.7.0
@@ -2072,11 +2072,11 @@ packages:
     resolution: {integrity: sha512-g9gZnnXVq7gM7v3tJCWV/qw7w+KeOlSHAhgF9RytFyifW6AF61hdT2ucrYhPq9hLs5JIryeupHV3qGk95dH9ow==}
     dev: true
 
-  /@vite-pwa/vitepress@0.4.0(vite-plugin-pwa@0.20.0):
-    resolution: {integrity: sha512-MrsSCK5EBCzQAQgq5/3XHaFIjkypda58Wzy6PkDwZoRHnWexik0C2GUxMOe+RA+qdpGxB0mEkhqajeOmuYMvhw==}
+  /@vite-pwa/vitepress@0.5.0(vite-plugin-pwa@0.20.0):
+    resolution: {integrity: sha512-a+BnACLMYOf/u2o6RhOJIdJgOW9wym9mTJGWbOLzFHE+fPjg+z1t/Xqm9LvOBQYEDIkrGrf+KxN4COQ0B8hbHg==}
     peerDependencies:
       '@vite-pwa/assets-generator': ^0.2.4
-      vite-plugin-pwa: '>=0.19.0 <1'
+      vite-plugin-pwa: '>=0.20.0 <1'
     peerDependenciesMeta:
       '@vite-pwa/assets-generator':
         optional: true
