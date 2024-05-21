@@ -1252,3 +1252,27 @@ Proposer: MechanicalRift, Seconded by: Neotide, Date: February 16th, 2024
 > "After a period of discussion of a minimum of 24 hours during which the specifics of the law are discussed and revisions are suggested, a different member of the Ololtic can "second" the proposal. It enters a 48-hour period where it is voted on, during which discussion may continue." 
 
 **Proposal Failed:** 15 Aye, 1 Nay, No Abstains
+
+## [Proposal] Name the Vault
+
+Proposer: bgbba, Seconded by: Yergo, Date: April 18th, 2024
+
+> I cannot vote but I can propose. I propose that the newly renovated vault be renamed to ‘South of the Border’ in honor of the largest tourist attraction south of the Mason Dixon line. That is all.
+
+**Proposal Failed:** 3 Aye, 7 Nay, No Abstains
+
+## [Proposal] Increase the minimum number of councillors from 3 to 4
+
+Proposer: Solitaire, Seconded by: VilyanZ, Date: May 12th, 2024
+
+> Recently I've been thinking that currently the council has the largest amount of responsibilities/duties/work that it has ever probably seen throughout Yoahtl's lifetime. This isn't a bad thing, and is just a natural result of Yoahtl becoming a more established and capable nation over time. Compared to when the first iteration of the current governmental structure was implemented and it was decided that the minimum number would be 3 councillors.
+
+> Alongside this increase in the minimum number of councillors I'd add a very slight increase to the number of voters needed to then get to a council of 5 people:
+
+> Article II Section 5.a. currently reads:
+> > The council shall be composed of 3 members minimum, with additional seats added for every 6 citizens beyond 12.
+>
+> I would propose that it is amended to read:
+> > The council shall be composed of 4 members minimum, with additional seats added for every 6 citizens beyond 14.
+
+**Proposal Failed:** 14 Aye, 3 Nay, No Abstains
