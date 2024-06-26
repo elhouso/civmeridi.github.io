@@ -280,3 +280,7 @@ Precedents:
 
 - The court values emotional and mental wellbeing over virtual assets.
 - Trails relating to the same incident should be consolidated where appropriate.
+
+## [VilyanZ v. Ezwin, Feb 2024](/judiciary/court-cases-precedents/vilyanz_v_ezwin_feb_2024.md)
+
+## [KrombopulosMichael v. Antow, Mar 2024](/judiciary/court-cases-precedents/krombopulos_v_antow_april_2024.md)
