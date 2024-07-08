@@ -278,7 +278,7 @@ _There was an emergency election due to war thus the early end date_
 - x1025 (Councillor)
 - ArkenX (General)
 
-### 13th January 2024 - ...
+### 13th January 2024 - 13th March 2024
 
 **Alcuahtl**: Neotide
 
@@ -287,3 +287,20 @@ _There was an emergency election due to war thus the early end date_
 - x1025 (Councillor)
 - Yergo (Councillor)
 - Solitaire (Councillor) (Replaced Arconis)
+
+### 13th March 2024 - 13th May 2024
+
+**Alcuahtl**: x1025
+
+- x1025 (Councillor)
+- Solitaire (Councillor)
+- Yergo (Councillor)
+
+### 13th May 2024 - 13th July 2024
+
+**Alcuahtl**: x1025
+
+- x1025 (Councillor)
+- Solitaire (Councillor)
+- Enzo (Councillor)
+- MechanicalRift (Councillor)
